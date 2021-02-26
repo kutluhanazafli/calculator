@@ -1,0 +1,7 @@
+C:\Code\ders\ders\ders\bin\Debug\ders.exe.config
+C:\Code\ders\ders\ders\bin\Debug\ders.exe
+C:\Code\ders\ders\ders\bin\Debug\ders.pdb
+C:\Code\ders\ders\ders\obj\Debug\ders.csprojAssemblyReference.cache
+C:\Code\ders\ders\ders\obj\Debug\ders.csproj.CoreCompileInputs.cache
+C:\Code\ders\ders\ders\obj\Debug\ders.exe
+C:\Code\ders\ders\ders\obj\Debug\ders.pdb
